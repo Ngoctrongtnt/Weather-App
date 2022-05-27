@@ -52,3 +52,12 @@ search.addEventListener('keypress', function (e) {
     }
 })
 changeWeatherUI('Ha Noi');
+
+// $("#btn").click(function(){
+//     changeWeatherUI();
+//   });
+
+// function myFunction() {
+//     changeWeatherUI('Ha Noi');
+    
+//   }
